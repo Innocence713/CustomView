@@ -1,6 +1,7 @@
 # 自定义控件 —— CustomView 
 --------
 ## 一、开关 —— ToggleView
+[](https://github.com/Innocence713/CustomView/blob/master/DemoGif/ToggleView1.gif)  
 --------
 ## 二、旋转菜单 —— RotateMenu
 --------
